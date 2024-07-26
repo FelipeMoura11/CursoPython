@@ -1,2 +1,2 @@
 ﻿# CursoPython
-Python básico + projetos reais, Projetos, Jupyter, Pandas, Numpy
+Python básico + Python para data science 
