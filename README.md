@@ -1,2 +1,2 @@
-﻿# CursoPython
-Python básico + Python para data science 
+﻿# Python básico + Python para data science 
+
